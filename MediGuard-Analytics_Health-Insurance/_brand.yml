@@ -1,0 +1,61 @@
+meta:
+  name:
+    short: MediGuard
+    full: MediGuard Analytics Corporation
+  link:
+    home: https://www.mediguard-analytics.com
+
+color:
+  palette:
+    white: "#FFFFFF"
+    black: "#1A1A1A"
+    midnight-blue: "#003D7A"
+    teal: "#00A19C"
+    sky-blue: "#5EB3E4"
+    emerald: "#00A86B"
+    coral: "#FF6B6B"
+    gold: "#FFB700"
+    slate: "#64748B"
+    light-gray: "#F5F5F5"
+    
+  foreground: "#1A1A1A"
+  background: "#FFFFFF"
+  primary: "#003D7A"
+  secondary: "#64748B"
+  success: "#00A86B"
+  info: "#00A19C"
+  warning: "#FFB700"
+  danger: "#FF6B6B"
+  
+typography:
+  fonts:
+    - family: Inter
+      source: google
+      weight: [400, 500, 600, 700]
+    - family: Roboto Slab
+      source: google
+      weight: [400, 600]
+    - family: Fira Code
+      source: google
+      weight: [400, 500]
+      
+  base:
+    family: Inter
+    weight: 400
+    size: 16px
+    line-height: 1.5
+    
+  headings:
+    family: Roboto Slab
+    weight: 600
+    line-height: 1.2
+    color: "#003D7A"
+    
+  monospace:
+    family: Fira Code
+    weight: 400
+    size: 0.9em
+  
+  link:
+    color: "#00A19C"
+    weight: 500

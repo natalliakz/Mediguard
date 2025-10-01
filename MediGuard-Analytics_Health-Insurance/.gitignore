@@ -1,0 +1,55 @@
+# R
+.Rhistory
+.RData
+.Rproj.user
+renv/library/
+renv/local/
+renv/cellar/
+renv/lock/
+renv/python/
+renv/sandbox/
+renv/staging/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+.uv/
+
+# Data
+*.csv
+*.xlsx
+*.xls
+*.rds
+*.pkl
+*.joblib
+
+# Output
+*.html
+*.pdf
+*.docx
+*_files/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# ML Models
+ml/models/
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# API
+.env
+*.log
